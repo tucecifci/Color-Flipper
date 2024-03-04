@@ -1,4 +1,4 @@
-# Color-Flipper
+# Color Flipper
 Hello everybody! 👋
 
 🍄 Welcome to Color Flipper! This simple web application allows you to generate random colors with just a click of a button. Whether you're looking for design inspiration or simply want to add some fun to your day, Color Flipper has you covered.
